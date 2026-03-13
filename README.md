@@ -3,12 +3,12 @@
 Terroir AI is a proof-of-concept Graph Neural Network (GNN) pipeline designed to identify the complex, hidden relationships between soil/plant microbiomes and final crop flavor profiles. 
 
 ### Why Graph Neural Networks (GNNs)?
-Traditional machine learning struggles with microbiome data because microbes don't act in isolation—they form complex, interacting communities (networks) that compete and cooperate. **GNNs are expressly built to understand these networks.** By modeling the agricultural ecosystem as a graph—where microbes are nodes and their interactions are edges—we can move beyond simple correlations to understand *how* the community as a whole influences plant biology.
+Traditional machine learning struggles with microbiome data because microbes don't act in isolation, they form complex, interacting communities (networks) that compete and cooperate. **GNNs are expressly built to understand these networks.** By modeling the agricultural ecosystem as a graph, where microbes are nodes and their interactions are edges, we can move beyond simple correlations to understand *how* the community as a whole influences plant biology.
 
 ### The Opportunity: Cultivating Desired Traits
 With access to large-scale sequencing data and environmental metadata, this approach unlocks unprecedented opportunities in agriculture. If an AI can reliably map which specific microbial clusters drive sugar production (Brix) while suppressing fungal pathogens, we can move from passive farming to **programmable agriculture**. 
 
-By intentionally inoculating soil with AI-identified "flavor-boosting" microbial consortia, we can predictably engineer agricultural output—achieving targeted sweetness, enhanced disease resistance, and optimized texture without relying on genetic modification or excessive chemical fertilizers. This project demonstrates that capability using strawberry cultivation as a model.
+By intentionally inoculating soil with AI-identified "flavor-boosting" microbial consortia, we can predictably engineer agricultural outputachieving targeted sweetness, enhanced disease resistance, and optimized texture without relying on genetic modification or excessive chemical fertilizers. This project demonstrates that capability using strawberry cultivation as a model.
 
 ## Data Sources
 
@@ -94,9 +94,24 @@ python pipeline/visualize.py
 ```
 *Outputs: Several `.png` files in `pipeline/outputs/` showing the network graphs, the most important microbes for each cultivar, and a comparison of predicted vs. actual flavor.*
 
-## Adapting for Your Own Data
+## Results
 
-To adapt this pipeline for your own crops or datasets:
-1. Replace the data in `pipeline/data/otu_abundance_table.csv` with your own sequenced abundance data.
-2. Update the target values (e.g., flavor traits or yield) in the `flavor_data` dictionary within `pipeline/build_graphs.py`.
-3. Re-run steps 3, 4, and 5.
+Our GNN model achieved remarkable precision on the strawberry test data.
+
+By identifying "Key Microbes" like *Pseudomonas* (which drives disease resistance in Monterey berries) and *Saccharomyces* (which correlates with sweetness in Elsanta), the model successfully predicted flavor profiles with a very low mean squared error. The network graphs visually demonstrate whether these key microbes are cooperating or competing within the plant's microbiome.
+
+*(You can find the generated charts showing loss curves, predicted vs. actual metrics, and node importance rankings inside the `pipeline/outputs/` folder).*
+
+---
+
+## The Vision: What We Can Build Together
+
+This pipeline proves that we can extract meaningful, actionable intelligence from microbial networks. **But this is just a proof of concept on a small, public dataset.**
+
+With access to a company's proprietary, large-scale agricultural data, vast sequencing libraries combined with years of environmental and yield metrics**I can build magic.** 
+
+Imagine an AI that doesn't just predict flavor, but actively tells you *exactly* which microbial consortia to cultivate to maximize yield, sweetness, and disease resistance for your specific soil type. That is the future of programmable agriculture, and I am ready to build it.
+
+If you want to see what we can do with your data, let's talk.
+
+**Contact me:** nithisha2201@gmail.com
