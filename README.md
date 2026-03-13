@@ -3,12 +3,12 @@
 Terroir AI is a proof-of-concept Graph Neural Network (GNN) pipeline designed to identify the complex, hidden relationships between soil/plant microbiomes and final crop flavor profiles. 
 
 ### Why Graph Neural Networks (GNNs)?
-Traditional machine learning struggles with microbiome data because microbes don't act in isolation, they form complex, interacting communities (networks) that compete and cooperate. **GNNs are expressly built to understand these networks.** By modeling the agricultural ecosystem as a graph, where microbes are nodes and their interactions are edges, we can move beyond simple correlations to understand *how* the community as a whole influences plant biology.
+Traditional machine learning struggles with microbiome data because microbes don't act in isolation—they form complex, interacting communities (networks) that compete and cooperate. **GNNs are expressly built to understand these networks.** By modeling the agricultural ecosystem as a graph—where microbes are nodes and their interactions are edges—we can move beyond simple correlations to understand *how* the community as a whole influences plant biology.
 
 ### The Opportunity: Cultivating Desired Traits
 With access to large-scale sequencing data and environmental metadata, this approach unlocks unprecedented opportunities in agriculture. If an AI can reliably map which specific microbial clusters drive sugar production (Brix) while suppressing fungal pathogens, we can move from passive farming to **programmable agriculture**. 
 
-By intentionally inoculating soil with AI-identified "flavor-boosting" microbial consortia, we can predictably engineer agricultural outputachieving targeted sweetness, enhanced disease resistance, and optimized texture without relying on genetic modification or excessive chemical fertilizers. This project demonstrates that capability using strawberry cultivation as a model.
+By intentionally inoculating soil with AI-identified "flavor-boosting" microbial consortia, we can predictably engineer agricultural output—achieving targeted sweetness, enhanced disease resistance, and optimized texture without relying on genetic modification or excessive chemical fertilizers. This project demonstrates that capability using strawberry cultivation as a model.
 
 ## Data Sources
 
