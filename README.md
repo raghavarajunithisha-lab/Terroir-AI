@@ -89,10 +89,12 @@ python pipeline/train.py
 
 ### Step 5: Visualize the Results
 Generate the final charts demonstrating the AI's findings:
+
 ```bash
 python pipeline/visualize.py
 ```
 *Outputs: Several `.png` files in `pipeline/outputs/` showing the network graphs, the most important microbes for each cultivar, and a comparison of predicted vs. actual flavor.*
+<img width="2385" height="596" alt="predicted_vs_actual" src="https://github.com/user-attachments/assets/e8c5874e-26ec-499f-9310-2133a74add4d" />
 
 ## Results
 
