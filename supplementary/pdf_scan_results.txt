@@ -1,0 +1,161 @@
+Total pages: 28
+======================================================================
+
+--- Page 1 ---
+  Text preview: Supporting Information | Title: Taxonomical and functional composition of strawberry microbiome is | genotype-dependent. | The following Supporting Information is available for this article: | Fig. S1 REP-PCR polyacrylamide gel. | Fig. S2 Rarefaction curves. | Fig. S3 Overall community composition based on rela
+  Tables found: 0
+
+--- Page 2 ---
+  Text preview: Fig. S1 REP-PCR profiles. Strains in bold represent those selected for identification by 16s | sequencing.
+  Tables found: 0
+
+--- Page 3 ---
+  Text preview: Fig. S2 Rarefaction curves for (A) bacteria and (B) fungi are shown. | A) | B)
+  Tables found: 0
+
+--- Page 4 ---
+  Text preview: Fig. S3 Overall community composition based on relative-abundance data. | MontMeroenyt eDreayr seDleacrsteElelcstanEtalsanta MontMeroenyt eDreayr seDleacrsteElelcstanEtalsanta | d d | n n | u u | Gr o | a | n s Gr o | a | n s | o v e Or g o v e Or g | b b | A A | ot s ot s | o o B B | gi R gi R a a | u n u n c te c te | F er eF er e
+  Tables found: 0
+
+--- Page 5 ---
+  Text preview: Fig. S4 Nonmetric multidimensional scaling (NMDS) plot showing beneficial community | composition similarity of beneficial bacteria (A) and fungi (B) among different soil and plant | compartments and genotypes.
+  Tables found: 0
+
+--- Page 6 ---
+  Text preview: Fig. S5 Gel electrophoresis of PCR amplified products using species-specific primers for | Pseudomonas fluorescens. Colonization of Monterey genotype has been investigated in bulk soil, | rhizosphere, internal tissue of roots and above ground plant compartments; 4 replicates for each | organ.
+  Tables found: 0
+
+--- Page 7 ---
+  Text preview: Fig. S6 Boxplots visualizing results for viable bacterial and fungal cells (colony-forming unit, | CFU) present in plant and soil compartments of strawberry cvs Darselect, Elsanta, Monterey.
+  Tables found: 0
+
+--- Page 8 ---
+  Text preview: Table S1 Mineral composition of the fertigating solution of strawberry plants in this work. | Macro elements mmol | NO 11 | 3 | NH 0.5 | 4 | H PO 1 | 2 4 | K 6.5 | Ca 4 | Mg 1.5 | SO 1.5 | 4 | Meso elements mol | Fe 20 | MnSO 15 | 4 | Micro elements mol | ZnSO 5 | 4 | Na B O 4 | 2 4 7 | CuSO 0.75 | 4 | Na MnO 0.5 | 2 4
+  Tables found: 0
+
+--- Page 9 ---
+  Text preview: Table S2 Disease Index (a) of cvs Monterey, Elsanta and Darselect under cultural conditions, | based on symptoms incidence and severity determined according to visual scale (b) (0=no | symptoms, 5=severe symptoms). | a) Monterey Elsanta Darselect | Leaf spot 0 1 3 | Powdery mildew 2 5 4 | b)
+  Tables found: 1
+  Table 1: 1 rows x 12 cols
+    Headers: ['', 'Leaf spot', '', '', '0', '', '', '1', '', '', '3', '']
+
+--- Page 10 ---
+  Text preview: Table S3. List of primers used in this work and their references. | Name Sequence Reference | Lac16S F. Bringel, A. Castioni, D.K. | 5’-AATGAGAGTTTGATCCTGGCT-3’ | for Olukoya, G. E. Felis, S. | Torriani, F. Dellaglio. | Lactobacillus plantarum | subsp. argentoratensis subsp. | nov., isolated from vegetable | Lac16S | 5
+  Tables found: 1
+  Table 1: 6 rows x 3 cols
+    Headers: ['Name', 'Sequence', 'Reference']
+    Row 1:   ['Lac16S\nfor', '5’-AATGAGAGTTTGATCCTGGCT-3’', 'F. Bringel, A. Castioni, D.K.\nOluko']
+
+--- Page 11 ---
+  Text preview: Name Sequence Reference | (2012) 666-677. | https://doi.org/10.1111/j.157 | 4-6941.2012.01437.x | 5’- | Illumina primers (Illumina | i7 GTCTCGTGGGCTCGGAGATGTGTATAAGAGA | Inc., San Diego, CA, USA) | CAG-3’ | N. Bodenhausen, M.W. | Horton, J. Bergelson, | Bacterial communities | associated with the leaves | and the roots of Ar
+  Tables found: 1
+  Table 1: 9 rows x 3 cols
+    Headers: ['Name', 'Sequence', 'Reference']
+    Row 1:   ['', '', '(2012) 666-677.\nhttps://doi.org/10.']
+
+--- Page 12 ---
+  Text preview: Name Sequence Reference | Bauhus, F. Buscot, et al., | Network analysis reveals | ecological links between N- | fixing bacteria and wood- | decaying fungi, PLoS One 9 | (2014) e88141. | https://doi.org/10.1371/journ | al.pone.0088141 | 16SPS E.S. Boyd, J.W. Peters, New | 5'-TGC ATT CAA AAC TGA CTG-3' | EfluF insights int
+  Tables found: 1
+  Table 1: 4 rows x 3 cols
+    Headers: ['Name', 'Sequence', 'Reference']
+    Row 1:   ['', '', 'Bauhus, F. Buscot, et al.,\nNetwork ']
+
+--- Page 13 ---
+  Text preview: Table S4 Potential strawberry fungal pathogens (Unite Species Hypotheses). | OTU Phylum UNITE species UNITE species hypotheses Short ID | identification (%) | Otu0003 Ascomycota Botrytis caroliniana Botrytis caroliniana (100) SH1189120.08FU | Otu0007 Ascomycota Plectosphaerella cucumerina Acremonium nepalen
+  Tables found: 1
+  Table 1: 38 rows x 5 cols
+    Headers: ['OTU', 'Phylum', 'UNITE species\nidentification', 'UNITE species hypotheses\n(%)', 'Short ID']
+    Row 1:   ['Otu0003', 'Ascomycota', 'Botrytis caroliniana', 'Botrytis caroliniana (100)', 'SH1189120.08FU']
+
+--- Page 14 ---
+  Text preview: OTU Phylum UNITE species UNITE species hypotheses Short ID | identification (%) | Otu0588 Ascomycota Devriesia sp Devriesia (100) SH1231801.08FU | Otu0601 Ascomycota Plectosphaerella cucumerina Acremonium nepalense (95.86) SH1234026.08FU | Otu0612 Ascomycota Dendryphion europaeum Dendryphion europaeum (100)
+  Tables found: 1
+  Table 1: 39 rows x 5 cols
+    Headers: ['OTU', 'Phylum', 'UNITE species\nidentification', 'UNITE species hypotheses\n(%)', 'Short ID']
+    Row 1:   ['Otu0588', 'Ascomycota', 'Devriesia sp', 'Devriesia (100)', 'SH1231801.08FU']
+
+--- Page 15 ---
+  Text preview: OTU Phylum UNITE species UNITE species hypotheses Short ID | identification (%) | Otu1694 Ascomycota Gibberella tricincta Gibberella tricincta (100) SH1173588.08FU | Otu1709 Ascomycota Botrytis caroliniana Botrytis caroliniana (100) SH1189120.08FU | Otu1713 Ascomycota Curvularia americana Curvularia lunata 
+  Tables found: 1
+  Table 1: 40 rows x 5 cols
+    Headers: ['OTU', 'Phylum', 'UNITE species\nidentification', 'UNITE species hypotheses\n(%)', 'Short ID']
+    Row 1:   ['Otu1694', 'Ascomycota', 'Gibberella tricincta', 'Gibberella tricincta (100)', 'SH1173588.08FU']
+
+--- Page 16 ---
+  Text preview: OTU Phylum UNITE species UNITE species hypotheses Short ID | identification (%) | Otu2490 Basidiomycota Urocystis agropyri Urocystis agropyri (98.85) SH1177340.08FU | Otu2527 Ascomycota Leptosphaeria sp | Table S5 Identification of potential bacterial beneficial functions based on literature research. | Funct
+  Tables found: 2
+  Table 1: 3 rows x 5 cols
+    Headers: ['OTU', 'Phylum', 'UNITE species\nidentification', 'UNITE species hypotheses\n(%)', 'Short ID']
+    Row 1:   ['Otu2490', 'Basidiomycota', 'Urocystis agropyri', 'Urocystis agropyri (98.85)', 'SH1177340.08FU']
+  Table 2: 6 rows x 2 cols
+    Headers: ['Function', 'Taxa']
+    Row 1:   ['Nitrogen fixation', 'Allorhizobium, Bradyrhizobium, Ensi']
+
+--- Page 17 ---
+  Text preview: Table S6 Effect of genotype, soil and plant compartment on community composition of | strawberry microbiome based on relative abundance data and Bray-Curtis distance measure. Nd | = not determined; Significant P values are highlighted in bold. | Community composition Community composition | (Two-way ANOSIM)
+  Tables found: 1
+  Table 1: 22 rows x 5 cols
+    Headers: ['Microorganisms/Factors', 'Community composition\n(Two-way ANOS', '', 'Community composition\n(Two-way PERM', '']
+    Row 1:   ['', 'R', 'P', 'PseudoF', 'P']
+
+--- Page 18 ---
+  Text preview: Table S7 Chemical composition of roots and above-ground strawberry organs. | Above-ground Organs Roots | Darselect Elsanta Monterey Darselect Elsanta Monterey | Macro-elements, % dry weight | C 43.50 ± 0.82 44.40 ± 0.98 43.11 ± 0.83 46.20 ± 3.13 48.25 ± 0.54 45.77 ± 0.58 | N 3.25 ± 0.43 3.02 ± 0.34 3.36 ± 0.4
+  Tables found: 1
+  Table 1: 22 rows x 7 cols
+    Headers: ['', 'Above-ground Organs', '', '', 'Roots', '', '']
+    Row 1:   ['', 'Darselect', 'Elsanta', 'Monterey', 'Darselect', 'Elsanta', 'Monterey']
+
+--- Page 19 ---
+  Text preview: Table S8 Bacterial (mainly Micrococcales) and fungal (mainly Ascomycota) OTUs detected in | all 3 strawberry genotypes and in all plant-soil compartments. | OTU Phylum Order Family Genus Species | Otu000001 Actinobacteria Micrococcales Micrococcaceae Pseudarthrobacter | - | Otu000003 Gammaproteobacteria Pseud
+  Tables found: 1
+  Table 1: 34 rows x 6 cols
+    Headers: ['OTU', 'Phylum', 'Order', 'Family', 'Genus', 'Species']
+    Row 1:   ['Otu000001', 'Actinobacteria', 'Micrococcales', 'Micrococcaceae', 'Pseudarthrobacter', '-']
+
+--- Page 20 ---
+  Text preview: OTU Phylum Order Family Genus Species | Otu0022 Basidiomycota Vishniacozyma | Tremellales Bulleribasidiaceae Vishniacozyma victoriae | Otu0025 Ascomycota Alternaria | Pleosporales Pleosporaceae Alternaria alternata | Otu0043 Basidiomycota Holtermanniella | Holtermanniales Holtermanniella takashimae | Otu0045 Asco
+  Tables found: 1
+  Table 1: 7 rows x 6 cols
+    Headers: ['OTU', 'Phylum', 'Order', 'Family', 'Genus', 'Species']
+    Row 1:   ['Otu0022', 'Basidiomycota', 'Tremellales', 'Bulleribasidiaceae', 'Vishniacozyma', 'Vishniacozyma\nvictoriae']
+
+--- Page 21 ---
+  Text preview: Table S9 Number of OTUs belonging to particular bacterial or fungal functions assigned based | on FAPROTAX and FUNguild, respectively. | BACTERIA - FUNCTIONS OTUs | Aromatic compound degradation 99 | Cellulolysis 31 | Chemoheterotrophy 2389 | Chitynolysis 3 | Hydrocarbon degradation 41 | Intracelluar parasites 235 | 
+  Tables found: 1
+  Table 1: 40 rows x 6 cols
+    Headers: ['', 'BACTERIA - FUNCTIONS', '', '', 'OTUs', '']
+    Row 1:   ['', 'Aromatic compound degradation', '', '', '99', '']
+
+--- Page 22 ---
+  Text preview: Table S10 List of fungal OTUs identified at the species level, for which biological control or | plant growth promoting activities have been described in literature. | Activities Fungal species | Acremonium alternatum (Raps and Vidal, | 1998) | Aureobasidium pullulans (Mari et al., 2012) | Candida sake (Marìn e
+  Tables found: 1
+  Table 1: 27 rows x 4 cols
+    Headers: ['Activities', 'Fungal species', '', '']
+    Row 1:   ['BCA against fungal\npathogens', 'Acremonium alternatum (Raps and Vid', '', '']
+
+--- Page 23 ---
+  Text preview: Table S11 Bacterial isolates screened for Plant Growth Promoting traits. See attached excel file. | Table S12 Quality parameters evaluated on harvested strawberry fruits. | Titratable | acidity | Diameter Texture SSC (citric | Cultivar pH | (mm) (N) (°Brix) acid eqs, | mg/ml) | Darselect 34.57±1.99 2.29±0.20 3.75±0
+  Tables found: 0
+
+--- Page 24 ---
+  Text preview: Table S13 Nitrogen fixing bacterial genera detected in cultivated strawberry, wild strawberries | and legume plants. | Bacterium genera Cultivated Strawberry Wild Strawberry Legumes | Allorhizobium ✕ ✓ | Neorhizobium ✓ (71 OTUs) ✕ ✓ | Pararhizobium ✕ ✓ | Rhizobium ✓ (3 OTUs) ✓ | Aminobacter ✓ (1 OTU) ✓ (1 OTU) ✓ | 
+  Tables found: 1
+  Table 1: 19 rows x 14 cols
+    Headers: ['Bacterium genera', 'Cultivated Strawberry', '', '', '', '', 'Wild Strawberry', '', '', '', '', 'Legumes', '', '']
+    Row 1:   ['Allorhizobium', '✓ (71 OTUs)', '', '', '', '', '', '', '✕', '', '', '', '✓', '']
+
+--- Page 25 ---
+  Text preview: References cited in Supplementary Material: |  M. Adnan, W. Islam, A. Shabbir, K.A. Khan, H.A. Ghramh, Z. Huang, et al., Plant defense | against fungal pathogens by antagonistic fungi with Trichoderma in focus, Microb. Pathog. | 129 (2019) 7-18. https://doi.org/10.1016/j.micpath.2019.01.042 |  L. Bilal, S
+  Tables found: 0
+
+--- Page 26 ---
+  Text preview:  M.S. Khan, A. Zaidi, J. Musarrat, Microbes for legume improvement, Vienna: Springer | (2010) |  U. Kõljalg, R.H. Nilsson, K. Abarenkov, L. Tedersoo, A.F. Taylor, M. Bahram, Towards | a unified paradigm for sequence‐based identification of fungi, Mol. Ecol. 22 (2013) 5271- | 5277. https://doi.org/10.1111/
+  Tables found: 0
+
+--- Page 27 ---
+  Text preview:  B. Prapagdee, C. Kuekulvong, S. Mongkolsuk, Antifungal potential of extracellular | metabolites produced by Streptomyces hygroscopicus against phytopathogenic fungi, Int. | J. Biol. Sci. 4 (2008) 330. https://doi.org/10.7150/ijbs.4.330 |  A. Raps, S. Vidal, Indirect effects of an unspecialized endophyt
+  Tables found: 0
+
+--- Page 28 ---
+  Text preview:  J. Yin, F. Qian, J. Huang, New functions of Ceriporia lacerate in phytophthora blight | control and growth promotion of eggplants, Sci. Agricul. Sin. 51 (2010) 2300-2310. |  S. Zhang, G. Yantai, X. Bingliang, Application of plant-growth-promoting fungi | Trichoderma longibrachiatum T6 enhances toleranc
+  Tables found: 0

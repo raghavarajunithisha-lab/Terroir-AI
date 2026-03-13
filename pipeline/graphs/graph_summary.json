@@ -1,0 +1,68 @@
+{
+  "Darselect": {
+    "nodes": 152,
+    "edges": 5062,
+    "node_names": [
+      "Otu000001",
+      "Otu000003",
+      "Otu000005",
+      "Otu000007",
+      "Otu000010",
+      "Otu000009",
+      "Otu000014",
+      "Otu000016",
+      "Otu000024",
+      "Otu000017"
+    ],
+    "flavor": {
+      "Brix": 6.37,
+      "pH": 3.75,
+      "Texture": 2.29,
+      "Acidity": 3.71
+    }
+  },
+  "Elsanta": {
+    "nodes": 152,
+    "edges": 5928,
+    "node_names": [
+      "Otu000001",
+      "Otu000003",
+      "Otu000005",
+      "Otu000007",
+      "Otu000010",
+      "Otu000009",
+      "Otu000014",
+      "Otu000016",
+      "Otu000024",
+      "Otu000017"
+    ],
+    "flavor": {
+      "Brix": 11.55,
+      "pH": 3.68,
+      "Texture": 2.2,
+      "Acidity": 3.94
+    }
+  },
+  "Monterey": {
+    "nodes": 152,
+    "edges": 5700,
+    "node_names": [
+      "Otu000001",
+      "Otu000003",
+      "Otu000005",
+      "Otu000007",
+      "Otu000010",
+      "Otu000009",
+      "Otu000014",
+      "Otu000016",
+      "Otu000024",
+      "Otu000017"
+    ],
+    "flavor": {
+      "Brix": 5.67,
+      "pH": 3.61,
+      "Texture": 3.05,
+      "Acidity": 2.7
+    }
+  }
+}
